@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "28481915636",
+    "project_id": "cognitive-rehabilitation-dev",
+    "storage_bucket": "cognitive-rehabilitation-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28481915636:android:13b3c97733ca0b54242ca1",
+        "android_client_info": {
+          "package_name": "com.flf.cognitive.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28481915636-b33rrqk66r8jmb25mgagupku0sqe1bmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flf.cognitive.dev",
+            "certificate_hash": "d0fb2c1b70af1e132b67388b949f3c82e57bf7cf"
+          }
+        },
+        {
+          "client_id": "28481915636-sahkmeckkrbpugtpo34sd32ps9a0ovam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIyVMYrVt1OsccWUCciAVIVkBrl8FM6qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28481915636-sahkmeckkrbpugtpo34sd32ps9a0ovam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28481915636-fpo1hvbmnva5r54es37pcae3v3rdq8k5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flf.cognitive.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

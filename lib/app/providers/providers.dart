@@ -1,0 +1,15 @@
+export "package:provider/provider.dart";
+export "../providers/tbi/tbi_provider.dart";
+export "../providers/database/database_provider.dart";
+export "../providers/game_provider/game_provider.dart";
+export "../providers/go_pop_provider/pop_provider.dart";
+export "../providers/go_pop_provider/pop_manager.dart";
+export "../providers/authentication/authentication.dart";
+export "../providers/go_color_provider/color_provider.dart";
+export "../providers/go_color_provider/color_manager.dart";
+export "../providers/go_speed_provider/speed_provider.dart";
+export "../providers/go_speed_provider/speed_manager.dart";
+export "../providers/go_matrix_provider/matrix_provider.dart";
+export "../providers/go_matrix_provider/matrix_manager.dart";
+export "../providers/database/database_manager.dart";
+export "../providers/tbi/tbi_manager.dart";
